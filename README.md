@@ -9,21 +9,24 @@ But **Phase 2** is a standalone project until the end when the 2 code bases merg
 
 I decided to convert it all to TypeScript excluding the first lesson.
 
-1. Spatial Graphs [original-kept]
+1. Spatial Graphs [not converted]
 2. Graph Editor [v1]
-3. Dynamic Viewport [November]
-4. Roads [November]
-5. Buildings And Trees [November]
-6. Fake 3D [November]
-7. ... [TBD]
+3. Dynamic Viewport [v1]
+4. Roads [v1]
+5. Buildings And Trees [v1 coming Nov 18]
+6. Fake 3D [v1 coming Nov 19][No roofs]
+7. ... [v1 coming Nov 20][No roofs; without refactoring part]
    .
    .
    .
-8.
+
+**Please note that this is me writing Typescript for the first time. Code is not very good, but I am aware of the mistakes and will 
+not make most of them in the future projects which was my goal here. However, I will most likely not come back 
+to fix DOCUMENTATION and TYPES**
 
 ## Planned Features
 
-After the course is completed, I will create a similar scenery in Three.Js
+After the course is completed, I will create a similar scenery in Three.Js. This will be a different repository though!
 
 ## Installation
 
