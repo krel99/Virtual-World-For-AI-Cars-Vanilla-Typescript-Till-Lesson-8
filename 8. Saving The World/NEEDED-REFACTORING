@@ -1,0 +1,6 @@
+Note: some types are unnecessarily too open and much refactoring is needed.
+This was done in lecture 7 by the end of the video.
+Unfortunately, this breaks one of the functions form utils.ts
+
+I was basicly testing Typescript in this project and don't plan to be fixing these issues
+as my goal is to take this all to 3D with manually modeled world.
